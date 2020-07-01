@@ -1,5 +1,7 @@
 # Forty - Jekyll Theme
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a2370ccb-1c7b-4630-a1d3-7144a0bef8a3/deploy-status)](https://app.netlify.com/sites/elastic-hoover-4e3258/deploys)
+
 A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
 
 ![Forty Theme](assets/images/forty.jpg "Forty Theme")
