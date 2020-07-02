@@ -40,7 +40,7 @@ plugins:
 
 assets:
   source_maps: true
-  destination: "/"
+  destination: "/assets/images"
   compression: false
   gzip: false
   defaults:
