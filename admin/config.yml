@@ -17,19 +17,16 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-  - label: "Pages"
-    name: "pages"
+  - label: "Home"
+    name: "home"
     files:
-      - label: "About Page"
-        name: "about"
-        file: "site/content/about.yml"
+      - label: "Home Page"
+        name: "home"
+        file: "index.md"
         fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Intro, name: intro, widget: markdown}
-          - label: Team
-            name: team
-            widget: list
-            fields:
-              - {label: Name, name: name, widget: string}
-              - {label: Position, name: position, widget: string}
-              - {label: Photo, name: photo, widget: image}
+          - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'home' }
+          - { label: Title, name: title, widget: string }
+          - { label: Landing Title, name: landing-title, widget: string, default: 'Hi, my name is Forty' }
+          - { label: "Tile", name: "show_tile", widget: "boolean", default: false }
+          - { label: Background, name: background, widget: image }
+          - { label: "Content", name: "body", widget: "markdown" }
