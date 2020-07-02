@@ -4,7 +4,7 @@ landing-title: Hi, my name is Bob
 author: null
 title: Home
 show_tile: false
-background: /pic02.jpg
+background: pic02.jpg
 image: null
 description: null
 ---
