@@ -4,7 +4,7 @@ landing-title: Hi, my name is Bob
 author: null
 title: Home
 show_tile: false
-background: assets/images/1884b93b-5a1d-42a9-8881-21d78383602d.jpeg
+background: 1884b93b-5a1d-42a9-8881-21d78383602d.jpeg
 image: null
 description: null
 ---
