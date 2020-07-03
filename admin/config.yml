@@ -31,7 +31,7 @@ collections:
           - { label: "Tile", name: "show_tile", widget: "boolean", default: false }
           - { label: Background, name: background, widget: image }
           - { label: "Content", name: "body", widget: "markdown" }
-   - label: "Инвалиды"
+  - label: "Инвалиды"
     name: "disabled"
     files:
       - label: "Disabled Page"
