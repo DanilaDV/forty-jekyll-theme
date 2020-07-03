@@ -1,17 +1,17 @@
 # site settings
 title: Pro100
 subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
+email: vitynadovity90@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://elastic-hoover-4e3258.netlify.app/"
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
+street_address: Kurfurstenstrasse 81
+city: Berlin
 state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+zip_code: 10787
+country: Germany
+phone: (176) 25776462
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
