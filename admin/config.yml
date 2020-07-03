@@ -31,3 +31,15 @@ collections:
           - { label: "Tile", name: "show_tile", widget: "boolean", default: false }
           - { label: Background, name: background, widget: image }
           - { label: "Content", name: "body", widget: "markdown" }
+   - label: "Инвалиды"
+    name: "disabled"
+    files:
+      - label: "Disabled Page"
+        name: "page"
+        file: "elements.md"
+        fields:
+          - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'page' }
+          - { label: Title, name: title, widget: string }
+          - { label: "Nav-menu", name: "nav-menu", widget: "boolean", default: true }
+          - { label: Image, name: image, widget: image }
+          - { label: "Content", name: "body", widget: "markdown" }
