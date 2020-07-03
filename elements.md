@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: Данила рулит
 nav-menu: true
 image: assets/images/1884b93b-5a1d-42a9-8881-21d78383602d.jpeg
 ---
