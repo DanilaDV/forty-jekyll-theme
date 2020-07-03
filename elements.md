@@ -2,7 +2,7 @@
 layout: page
 title: Elements
 nav-menu: true
-image: 1884b93b-5a1d-42a9-8881-21d78383602d.jpeg
+image: assets/images/pic01.jpg
 ---
 
 <!-- Main -->
